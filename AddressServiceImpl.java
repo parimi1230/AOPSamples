@@ -20,19 +20,19 @@ package com.sample.aop;
 public class AddressServiceImpl {
 
     public void addAddress(){
-        System.out.print("Address is added");
+        System.out.println("Address is added");
     }
 
     public void deleteAddress(){
-        System.out.print("Address is added");
+        System.out.println("Address is added");
     }
 
     public void updateAddress(){
-        System.out.print("Address is added");
+        System.out.println("Address is added");
     }
 
     public void truncateAddress(){
-        System.out.print("Address is added");
+        System.out.println("Address is added");
     }
 
 
